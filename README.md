@@ -7,7 +7,7 @@ This repository contains my solutions to the [Advent of Code](https://adventofco
 | Day | Problem | Solution | Language | Stars |
 |-----|---------|----------|----------|-------|
 | 01 | [Day 1](https://adventofcode.com/2024/day/1) | [Solution](./2024/day01/solution.c) | C | ⭐⭐ |
-| 02 | [Day 2](https://adventofcode.com/2024/day/2) | [Solution](./2024/day02/solution.c) | C |  |
+| 02 | [Day 2](https://adventofcode.com/2024/day/2) | [Solution](./2024/day02/solution.c) | C | ⭐  |
 | 03 | [Day 3](https://adventofcode.com/2024/day/3) | [Solution](./2024/day03/solution.c) | C |  |
 | 04 | [Day 4](https://adventofcode.com/2024/day/4) | [Solution](./2024/day04/solution.c) | C |  |
 | 05 | [Day 5](https://adventofcode.com/2024/day/5) | [Solution](./2024/day05/solution.c) | C |  |
